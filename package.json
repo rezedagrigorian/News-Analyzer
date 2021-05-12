@@ -45,6 +45,6 @@
     "core-js": "3.4.1",
     "imagemin-pngquant": "^5.0.1",
     "pngquant-bin": "^3.1.1",
-    "swiper": "5.3.6"
+    "swiper": "6.5.1"
   }
 }
