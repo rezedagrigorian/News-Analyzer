@@ -9,6 +9,10 @@
     
 }
 
+.search__field:focus {
+    outline:none;
+}
+
 @media (max-width: 320px) {
     .search__field{
 		background-color: transparent;

@@ -43,8 +43,18 @@
 
 ## Как развернуть проект
 
-Достаточно зайти на страницу проекта на github.io: [ссылка на проект](https://desertoraposa.github.io/News-Analyzer/) 
+Cкопировать проект к себе на компьютер: 
 
-##Используемые технологии
+    git clone https://github.com/DesertoRaposa/News-Analyzer.git 
+
+Установить зависимости командой: 
+
+    npm install
+
+Выполнить сборку:
+    
+    npm run dev
+
+## Используемые технологии
 Нативный JS, CSS, HTML, Webpack, GIT, fetch
 

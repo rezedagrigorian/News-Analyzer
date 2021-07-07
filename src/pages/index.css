@@ -19,6 +19,14 @@
 	
   }
 
+  input:focus {
+    outline: none;
+}
+
+button {
+	outline:none;
+}
+
   .page {
     font-family:'Roboto';
     max-width: 1440px;
